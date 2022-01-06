@@ -1,1 +1,1 @@
-<img title="main" src="https://ibb.co/zbVJ5kz" alt="BmiMain" width="400" />
+<img title="main" src="https://i.ibb.co/xGqHs4N/BMI-Calculator-Main.png" alt="BmiMain" width="400" />
