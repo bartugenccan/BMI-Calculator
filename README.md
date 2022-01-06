@@ -8,9 +8,12 @@
 
 ## Calculation Result Screens
 
-<img title="main" src="https://i.ibb.co/sm5xdT7/BMI-Red-Result.png" alt="BmiMain" width="150" />
+<div>
+<img style="display:inline" title="main" src="https://i.ibb.co/sm5xdT7/BMI-Red-Result.png" alt="BmiMain" width="150" />
 
 <img title="main" src="https://i.ibb.co/9yGqt6M/BMI-Green-Result.png" alt="BmiMain" width="150" />
 
 <img title="main" src="https://i.ibb.co/55M5YXp/BMI-Blue-Result.png" alt="BmiMain" width="150" />
+<div/>
+
 
